@@ -12,7 +12,7 @@ Body {
    <?php
         
         $array = [
-            'message' => 'ki'
+            'message' => 'წარმატებით განახლდა'
         ];
 
         $json = json_encode($array);
